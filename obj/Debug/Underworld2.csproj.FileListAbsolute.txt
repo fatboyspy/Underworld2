@@ -1,0 +1,50 @@
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Irrelvant.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Irrelvant.pdb
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Boo.Lang.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\UnityEditor.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\UnityEngine.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\UnityScript.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\nunit.framework.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\Temp\bin\Debug\Mono.Security.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\obj\Debug\ResolveAssemblyReference.cache
+D:\Knowledge\Game developing\UnityProjects\Underworld2\obj\Debug\Irrelvant.dll
+D:\Knowledge\Game developing\UnityProjects\Underworld2\obj\Debug\Irrelvant.pdb
+D:\Unity\Projects\Underworld2\obj\Debug\ResolveAssemblyReference.cache
+D:\Unity\Projects\Underworld2\obj\Debug\Irrelvant.dll
+D:\Unity\Projects\Underworld2\obj\Debug\Irrelvant.pdb
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Irrelvant.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Irrelvant.pdb
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Boo.Lang.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\UnityEditor.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\UnityEngine.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\UnityScript.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\nunit.framework.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Unity\Projects\Underworld2\Temp\bin\Debug\Mono.Security.dll
+D:\Lessons\Underworld2\obj\Debug\ResolveAssemblyReference.cache
+D:\Lessons\Underworld2\obj\Debug\Irrelvant.dll
+D:\Lessons\Underworld2\obj\Debug\Irrelvant.pdb
+D:\Lessons\Underworld2\Temp\bin\Debug\Irrelvant.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Irrelvant.pdb
+D:\Lessons\Underworld2\Temp\bin\Debug\Boo.Lang.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\UnityEditor.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\UnityEngine.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\UnityScript.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\nunit.framework.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\Mono.Security.dll
+D:\Lessons\Underworld2\Temp\bin\Debug\underworld_db.mdf
+D:\Lessons\Underworld2\Temp\bin\Debug\underworld_db_log.ldf

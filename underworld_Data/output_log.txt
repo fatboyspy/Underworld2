@@ -1,0 +1,48 @@
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4364]
+    Renderer: Intel(R) HD Graphics 510
+    Vendor:   Intel
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-030760E8 (this message is harmless)
+Non platform assembly: data-030DA420 (this message is harmless)
+Non platform assembly: data-030E1E90 (this message is harmless)
+Non platform assembly: data-07400388 (this message is harmless)
+Non platform assembly: data-074061D0 (this message is harmless)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+The tree AshStone(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree DetailedStone(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree LavaStone(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree RedStone(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree SimpleStone(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree Fern must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+The tree FernMesh must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/BuildAgent/work/f724c1acfee760b6/Runtime/Terrain/TreeDatabase.cpp Line: 63)
+
+
+Unloading 391 unused Assets to reduce memory usage. Loaded Objects now: 1176.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)

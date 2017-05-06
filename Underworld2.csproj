@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace>Irrelevant</RootNamespace>
+	<AssemblyName>Irrelvant</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_2_0;UNITY_3_2;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+	<Reference Include="Boo.Lang">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Mono/lib/mono/unity/Boo.Lang.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityScript">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Mono/lib/mono/unity/UnityScript.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <None Include="Assets\Resources\NecromancerGUI\GUITestScript.js" />
+     <None Include="Assets\Resources\NecromancerGUI\Kingthings.txt" />
+     <None Include="Assets\Resources\NecromancerGUI\Readme.txt" />
+     <None Include="Assets\Resources\Shaders\SkyboxBlended.shader" />
+     <Compile Include="Assets\Scripts\BaseClasses\Bag.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\Creature.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\Drop.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\DropList.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\Equipment.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\EquipmentSlot.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\Item.cs" />
+     <Compile Include="Assets\Scripts\BaseClasses\SpawnPoint.cs" />
+     <Compile Include="Assets\Scripts\Creatures\Gamer.cs" />
+     <Compile Include="Assets\Scripts\Creatures\Mob.cs" />
+     <Compile Include="Assets\Scripts\Creatures\Npc.cs" />
+     <Compile Include="Assets\Scripts\EnvironementScripts\DayCycle.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\EnemyAI.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\FollowingCamera.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\PlayerCamera.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\SpawnManager.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\StartGame.cs" />
+     <Compile Include="Assets\Scripts\Items\Armor.cs" />
+     <Compile Include="Assets\Scripts\Items\Consumable.cs" />
+     <Compile Include="Assets\Scripts\Items\Jewelry.cs" />
+     <Compile Include="Assets\Scripts\Items\Potion.cs" />
+     <Compile Include="Assets\Scripts\Items\QuestItem.cs" />
+     <Compile Include="Assets\Scripts\Items\Recipe.cs" />
+     <Compile Include="Assets\Scripts\Items\Weapon.cs" />
+     <Compile Include="Assets\Scripts\Libraries\DropListLibrary.cs" />
+     <Compile Include="Assets\Scripts\Libraries\ItemsLibrary.cs" />
+     <Compile Include="Assets\Scripts\Libraries\MobsLibrary.cs" />
+     <Compile Include="Assets\Scripts\Libraries\SpawnPointsLibrary.cs" />
+     <Compile Include="Assets\Scripts\MenuScripts\BaseControls\ComboBox.cs" />
+     <Compile Include="Assets\Scripts\MenuScripts\CharacterWaiting.cs" />
+     <Compile Include="Assets\Scripts\MenuScripts\CreateCharacterGUI.cs" />
+     <Compile Include="Assets\Scripts\MenuScripts\GameView.cs" />
+     <Compile Include="Assets\Scripts\MenuScripts\MainMenu.cs" />
+     <None Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" />
+     <None Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" />
+     <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <None Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
+     <None Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
+     <None Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
+     <Compile Include="Assets\Standard Assets\Editor\Water3\Water3Editor.cs" />
+     <None Include="Assets\Standard Assets\Skyboxes\skybox info.txt" />
+     <Compile Include="Assets\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\RiverWater.shader" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\RiverWaterVertexColor.shader" />
+     <Compile Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3.cs" />
+     <Compile Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3Float.cs" />
+     <Compile Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3Manager.cs" />
+     <Compile Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3UnderwaterEffect.cs" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Shaders\FX-Water3.shader" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Shaders\Water3Underwater.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
+	

@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creature">
+    <Position X="3.75" Y="17" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ICgAxAQoQEQADGiQACYogFQCABlECIAhMACAICAACMA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAIAoAAAAAQAADAFAAAwAQAAAAEAAiA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamer">
+    <Position X="5.75" Y="17.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SEAIIUwAgAAAAooAAEIAAABAAJBQAAAaUQAECgFADCE=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mob">
+    <Position X="5.75" Y="22.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAECAAAAAgAAAAAAAAAAAAAAAAAAAAQCAAAEAgAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Mob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Npc">
+    <Position X="3.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Npc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Armor">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CCIAAAAgAABAAAIAQAIAAAACAgAgAAAAIAAAAQgCAgE=</HashCode>
+      <FileName>Assets\Scripts\Items\Armor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Consumable">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Consumable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jewelry">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAABAAAIAQAIAAAACAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Jewelry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potion">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAIAAAQAAAAAAAAAgAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestItem">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\QuestItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIIAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CggCAAIIAAAAgAIAAIAAgAAAAAAAAgIgAAIAIAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bag">
+    <Position X="8" Y="15.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAACAAAAAoAAAACgAAAAAAEACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Bag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drop">
+    <Position X="10" Y="18.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCABAAggAQ=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Drop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropList">
+    <Position X="8" Y="17.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\DropList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Equipment">
+    <Position X="8" Y="19.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAgAAAAAAAAAQAACAAgAgAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentSlot">
+    <Position X="8" Y="21.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAABAAQAAQAEAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\EquipmentSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnPoint" Collapsed="true">
+    <Position X="6.5" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAABAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\SpawnPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DayCycle" Collapsed="true">
+    <Position X="10" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUARCAIAiAAAAAUAgAAAAAAAAAAAEAAAgAUAEABAAA=</HashCode>
+      <FileName>Assets\Scripts\EnvironementScripts\DayCycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAI">
+    <Position X="10" Y="15.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAESAAAAAAAABABAAEEBAEACAAIACAIAACAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowingCamera" Collapsed="true">
+    <Position X="4.75" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\FollowingCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCamera" Collapsed="true">
+    <Position X="10" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAEAAAAIAAAAAgBAEAAAgAAAABgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\PlayerCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerControl" Collapsed="true">
+    <Position X="3" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAUCAAIgEAKAQAAFAAABAAAAAAFADAIBIAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnManager" Collapsed="true">
+    <Position X="4.75" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAACAQACAAIAACAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\SpawnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartGame" Collapsed="true">
+    <Position X="8.25" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAASAAAAQgAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\StartGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DropListLibrary" Collapsed="true">
+    <Position X="15.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Libraries\DropListLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemsLibrary" Collapsed="true">
+    <Position X="15.25" Y="18.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Libraries\ItemsLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobsLibrary" Collapsed="true">
+    <Position X="15.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Libraries\MobsLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnPointsLibrary" Collapsed="true">
+    <Position X="12.5" Y="29.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Libraries\SpawnPointsLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComboBox" Collapsed="true">
+    <Position X="6.5" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAAAAAAAAAAAAAAAAAgACAEAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\MenuScripts\BaseControls\ComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWaiting" Collapsed="true">
+    <Position X="4.75" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuScripts\CharacterWaiting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateCharacterGUI" Collapsed="true">
+    <Position X="8.25" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAWABAQqACAABEASAkBACAABAAAALOggACShiUiAiQg=</HashCode>
+      <FileName>Assets\Scripts\MenuScripts\CreateCharacterGUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameView" Collapsed="true">
+    <Position X="3" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAIIACADSElECAQgFAEAAAQAUAAAAHCJJCAEAgA=</HashCode>
+      <FileName>Assets\Scripts\MenuScripts\GameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="6.5" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AATAAAAAACACAAAAAAAAAAAAAAAAAAAAACCADEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuScripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseLook" Collapsed="true">
+    <Position X="8.25" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAEACAAAAAAAAGAAAAAAIAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water3Editor" Collapsed="true">
+    <Position X="4.75" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iggACAGIEgAQgB4AAABACAABICIhBAAIAJQACAAACAE=</HashCode>
+      <FileName>Assets\Standard Assets\Editor\Water3\Water3Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water" Collapsed="true">
+    <Position X="10" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgwkACAAAxCAAAAAAQAAIAIAACEIEAAIAAAAABEAAIQ=</HashCode>
+      <FileName>Assets\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water3" Collapsed="true">
+    <Position X="3" Y="31.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Water3.WaterMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CgwkSCGIEjCBoBYAAQBAIAAAACkpEAAIElQAABAABAU=</HashCode>
+      <FileName>Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water3Float" Collapsed="true">
+    <Position X="6.5" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3Float.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water3Manager" Collapsed="true">
+    <Position X="3" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwgEpAAACAAAAACAgAAAGIAAQAABQAAUAAAAFAAKAY=</HashCode>
+      <FileName>Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water3UnderwaterEffect" Collapsed="true">
+    <Position X="8.25" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAADAAAAAAAAAAAQIAAAAAAAEAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Water (Pro Only)\Water3\Sources\Scripts\Water3UnderwaterEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CreatureGender">
+    <Position X="11.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TypeOfEquipmentSlot">
+    <Position X="11.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAgAAEAAIAAgAIAAAAIAAACAAAAAAUAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\EquipmentSlot.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ItemType">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABIAAEAAAAAAAAAAAAAAgAAAAgAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ItemGrade">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAgAEAAAAAAAAAAAgAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlayerRace">
+    <Position X="11.75" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAIAIAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlayerOccupation">
+    <Position X="13.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MobRace">
+    <Position X="11.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAIAAAAAAAAAAAAAAAAAAAACIgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Mob.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MobOccupation">
+    <Position X="13.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Creatures\Mob.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SunState" Collapsed="true">
+    <Position X="12.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\EnvironementScripts\DayCycle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MobState">
+    <Position X="13.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAgAAAAAAAAAIAAIAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CharacterState">
+    <Position X="13.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAIAAICAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\GameScripts\PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TypeOfArmor">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAEAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Armor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TypeOfJewelry">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Items\Jewelry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TypeOfWeapon">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAQAAAAAAAIAIAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WeaponAttackSpeed">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

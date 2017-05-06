@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{DF319F4D-FD1D-3E21-CB25-2958C0BBEF8D}") = "Underworld2", "Underworld2.csproj", "{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEF9555-3A2F-AB7C-C28A-6598C71162BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
